@@ -1,5 +1,5 @@
 #include <stdio.h>
-//質數判別
+//質數判別https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=30752
 int main(){
     int num;
     int oupt = 1;
